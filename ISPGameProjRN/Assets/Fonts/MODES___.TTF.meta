@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 81d16c9e73e0a0c4aa777a3ec67ab163
+timeCreated: 1521070522
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 400
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ModeSeven
+  fontNames:
+  - ModeSeven
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
