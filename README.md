@@ -1,2 +1,2 @@
-# ISPGame
-Online repository for the ISP Project
+# ISPGame - Richard Noeske
+Online repository for my ISP project, creating a video game.
