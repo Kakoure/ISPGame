@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/_Scenes/TestRoom.unity
     guid: 04ad5fa55d5561845a795dd9e584b1fc
   - enabled: 1
-    path: Assets/_Scenes/Room_One.unity
-    guid: 4c6b994a0198911408d608d77e028160
-  - enabled: 1
     path: Assets/_Scenes/Main_Menu.unity
     guid: 0c64190f734040a4581ceb1d464e012c
+  - enabled: 1
+    path: Assets/_Scenes/Room_One.unity
+    guid: 4c6b994a0198911408d608d77e028160
